@@ -4,7 +4,7 @@ Python Tracks Command Line Interface |build-status|
 |doc-status| |cover-status|
 
 
-..Global references and images
+.. Global references and images
 
 .. |build-status|
    image:: https://secure.travis-ci.org/sheeprine/tracksclient.svg?branch=master
@@ -12,7 +12,7 @@ Python Tracks Command Line Interface |build-status|
    :alt: Build Status
 
 .. |doc-status|
-   image:: https://readthedocs.org/projects/sheeprine/tracksclient/badge/?version=latest
+   image:: https://readthedocs.org/projects/tracksclient/badge/?version=latest
    :target: http://tracksclient.readthedocs.org
    :alt: Documentation Status
 
